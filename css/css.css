@@ -1,0 +1,78 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.encabezado{
+	height: 60px;
+	width: 100%;
+	background-color: #E8E8E8;
+	padding: 4px 0px 4px;
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.derecha{
+	width: 50px;
+	height: 50px;
+	background-color: white;
+	border: 2px solid #4A4A4A;
+	margin: 0px 45px;	
+}
+.caja_2{
+	margin-top: 10px;
+	text-decoration: none;
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	
+}
+.izquierda{  
+	width: 60px;
+	height: 25px;
+	border: 1px solid black;
+	list-style: none;
+	margin: 6px 30px 6px 5px;
+	background-color: #9B7B99;	
+}
+.section_1{
+	height: 400px;
+	width: 100%;
+	background-color: #DFDFDF;
+	padding: 200px 0px 0px 0px;
+}
+.div_2{
+	width: 500px;
+	height: 60px;
+	background-color: #9B7B99;
+	margin: auto;
+	border: 1px solid #4A4A4A;
+
+}
+.div_3{
+	width: 700px;
+	height: 60px;
+	background-color: #9B7B99;
+	margin: auto;
+	border: 1px solid #4A4A4A;
+}
+.boton{
+	display: block;
+    background-color: #4A4A4A;
+    width: 95px;
+    padding: 50px 40px 10px 40px;
+    border-radius: 35px;
+	margin: auto;
+}
+.sectionn{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;	
+}
+.div_4{
+	width: 200px;
+	height: 200px;
+	border: 1px solid #4A4A4A;
+	margin: 100px 100px 100px 100px;	
+}
